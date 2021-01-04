@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUrl" : "mongodb+srv://Max:0000@cluster0.ctfzu.mongodb.net/app?retryWrites=true&w=majority"
+}
